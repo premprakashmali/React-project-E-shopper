@@ -1,0 +1,793 @@
+{
+  "user": [
+    {
+      "id": "1713874731032",
+      "name": "Montu",
+      "mobile": "09680294478",
+      "email": "prem011@gmail.com",
+      "password": "000",
+      "img": "https://i.pinimg.com/736x/9a/77/d3/9a77d34ec81db97c5a45f75873326d6a.jpg",
+      "status": "Unblock",
+      "": "on"
+    },
+    {
+      "id": "1713889701223",
+      "name": "Windy",
+      "mobile": "9587425854",
+      "email": "Windy01@gmail.com",
+      "password": "prem01",
+      "img": "https://i.pinimg.com/236x/4e/22/be/4e22beef6d94640c45a1b15f4a158b23.jpg",
+      "": "on",
+      "status": "Unblock"
+    },
+    {
+      "id": "1714012765615",
+      "name": "prem mali",
+      "mobile": "09680294478",
+      "email": "prem@gmail.com",
+      "password": "123456",
+      "img": "https://static.artguru.ai/_next/static/media/user2_showcase.1f314939.png",
+      "status": "Unblock",
+      "": ""
+    }
+  ],
+  "admin": [
+    {
+      "id": "1713006145071",
+      "name": "prem",
+      "phone": "9680294478",
+      "email": "prem07@gmail.com",
+      "password": "1234",
+      "img": "https://i.pinimg.com/474x/3e/9a/03/3e9a030abfa57045fa20495a5d5662f2.jpg",
+      "status": "Unblock"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1713325564393",
+      "name": "prem prakash mali",
+      "email": "premprakashm10@gmail.com",
+      "subject": "subject",
+      "message": "hiii",
+      "img": "https://i.pinimg.com/236x/d9/2f/fd/d92ffdf33752a62ac93cb5379ba5fd9f.jpg"
+    },
+    {
+      "id": "1714383247386",
+      "name": "Rahul",
+      "email": "Rahul@gmail.com",
+      "subject": "subject",
+      "message": "my account will be banned so please help me",
+      "img": "https://i.pinimg.com/236x/8d/e8/02/8de8027a3ffd2d16d827d145ea1d1908.jpg"
+    },
+    {
+      "id": "1714723888537",
+      "name": "prem prakash mali",
+      "email": "premprakashm10@gmail.com",
+      "subject": "sss",
+      "message": "sss",
+      "img": "https://i.pinimg.com/564x/3d/91/09/3d910919cf4d41c1114457504dc29201.jpg"
+    },
+    {
+      "id": "1715154155154",
+      "name": "Montu",
+      "email": "Montu@gmail.com",
+      "subject": "qqq",
+      "message": "hii",
+      "img": "https://media.istockphoto.com/id/1309328823/photo/headshot-portrait-of-smiling-male-employee-in-office.jpg?b=1&s=612x612&w=0&k=20&c=eU56mZTN4ZXYDJ2SR2DFcQahxEnIl3CiqpP3SOQVbbI="
+    },
+    {
+      "id": "1717412383089",
+      "name": "prem prakash mali",
+      "email": "prem01@gmail.com",
+      "subject": "dd",
+      "message": "hello ,sd,es",
+      "img": "https://media.istockphoto.com/id/1309328823/photo/headshot-portrait-of-smiling-male-employee-in-office.jpg?b=1&s=612x612&w=0&k=20&c=eU56mZTN4ZXYDJ2SR2DFcQahxEnIl3CiqpP3SOQVbbI="
+    }
+  ],
+  "Beauty": [
+    {
+      "id": "1714996164753",
+      "Prod_name": "Insight Cosmetics Make Up Essentials Stay Matte Rose Beige 30ml",
+      "price": "340.00",
+      "discount": "30% off",
+      "Discription": "Introducing Insight Cosmetics SPF 24 Instant Glow Illuminating Highlighter Powder Compact - a pressed powder highlighter that lightens up your best features with a high-shine finish. This glow illuminating powder delivers a natural healthy glow, blurs the look of imperfections, sets makeup and adds all-over radiance. The lit-from-within finish is flattering on all skin tones and skin types.",
+      "status": "Done",
+      "url": "https://www.jiomart.com/images/product/original/974062/insight-cosmetics-stay-matte-liquid-foundation-rose-beige-30-ml-prod-974062-0-202206131929.jpg?im=Resize=(600,600)",
+      "BeautySecimg": "https://www.jiomart.com/images/product/original/974062/insight-cosmetics-stay-matte-liquid-foundation-rose-beige-30-ml-prod-974062-1-202206131929.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1714998587131",
+      "Prod_name": "Lakme 9to5 Unreal Dual Cover Pressed Powder,  9 gm",
+      "price": "333.00",
+      "discount": "30% off",
+      "Discription": "Insight Cosmetics Matte Lip Ink is packed with pigments and nearly weightless formula, giving you bright, bold and beautiful lips that last all day long. It is quick drying and delivers an intense shot of matte pigment in one easy swipe. The waterproof, non-transfer long lasting formula imparts a shock of comfortable color that won't bleed or transfer. This highly pigmented liquid lip ink comes with a unique arrow applicator for precise application and intense color distribution.",
+      "status": "Done",
+      "url": "https://www.jiomart.com/images/product/original/1086590/lakme-9to5-unreal-dual-cover-pressed-powder-2-in-1-compact-foundation-10-ivory-9-gm-prod-1086590-0-202403050038.jpg?im=Resize=(600,600)",
+      "BeautySecimg": "https://www.jiomart.com/images/product/original/1086590/lakme-9to5-unreal-dual-cover-pressed-powder-2-in-1-compact-foundation-10-ivory-9-gm-prod-1086590-2-202403050038.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1714998916332",
+      "Prod_name": "Insight Cosmetics HD Finishing Loose Powder - Honey 30 gm",
+      "price": "340.00",
+      "discount": "30% off",
+      "Discription": "Insight Cosmetics Translucent Face Powder gives your skin a flawless, matte effect. Its anti-shine formula controls excess sebum and oil on the skin and keeps your makeup set all day long. This cruelty-free translucent powder minimizes the appearance of fine lines and wrinkles and gives your makeup an even finish. It also contains SPF and offers protection against the harmful effects of UV rays.",
+      "status": "Done",
+      "url": "https://www.jiomart.com/images/product/original/974050/insight-cosmetics-hd-finishing-loose-powder-honey-30-gm-prod-974050-0-202311091635.jpg?im=Resize=(360,360)",
+      "BeautySecimg": "https://www.jiomart.com/images/product/original/974048/insight-cosmetics-hd-finishing-loose-powder-light-30-gm-prod-974048-3-202311091822.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1714999032900",
+      "Prod_name": "Insight Cosmetics Non - Transfer Lip Color - 02 Red Alert 4 ml",
+      "price": "255.00",
+      "discount": "40% off",
+      "Discription": "• Powerful Ingredients: Triple Vitamin Complex (Vitamin B3, pro-B5 & E) • Designed to deliver nutrients at night for a natural and healthy glow • Nourishes skin while sleeping • Lightens and brightens skin tone • Evens out skin tone and helps reduce the appearance of dark spots • Smoothes skin texture • Moisturisation with nutrient-rich formula • Skin Type: Oily Skin, Dry Skin, Combination Skin, Normal Skin • How to use- Apply on clean skin using fingertips and smooth evenly onto skin over face and neck. Apply before",
+      "status": "Done",
+      "url": "https://www.jiomart.com/images/product/original/974022/insight-cosmetics-non-transfer-lip-color-02-red-alert-4-ml-prod-974022-0-202311091534.jpg?im=Resize=(600,600)",
+      "BeautySecimg": "https://www.jiomart.com/images/product/original/974022/insight-cosmetics-non-transfer-lip-color-02-red-alert-4-ml-prod-974022-8-202311091534.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1714999108922",
+      "Prod_name": "The Mom's Co. Natural Damaged Repair KA+ Keratin, Pro Vitamin B5 Morocca Argan Oil Conditioner 200ml",
+      "price": "299.00",
+      "discount": "40% off",
+      "Discription": "Our Natural Protein Hair Conditioner is a toxin-free combination of Hydrolyzed Wheat and Silk Proteins, Argan Oil, Murumuru Seed Butter, Beetroot extract and Vitamins that repair and deeply moisturise the hair, leaving them soft and smooth",
+      "status": "Done",
+      "url": "https://www.jiomart.com/images/product/original/995403/the-moms-co-damaged-control-conditioner-200-ml-prod-995403-0-202203281723.jpg?im=Resize=(600,600)",
+      "BeautySecimg": "https://www.jiomart.com/images/product/original/995403/the-moms-co-damaged-control-conditioner-200-ml-prod-995403-1-202203281723.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1714999213748",
+      "Prod_name": "Denver Sporting Club Champ Deodorant Spray - for Men 200 ml",
+      "price": "349.00",
+      "discount": "20%off",
+      "Discription": "Say goodbye to sticky sunscreens: Get a guaranteed 97% protection from harmful UV rays in an exciting new gel format! This lightweight gel sunscreen is ideal for Indian weather which tends to get hot and humid. It spreads easily on skin and leaves your skin with an ultra-matte feel. In addition, it provides broad-spectrum UV protection which means it guards your skin from both UVA and UVB rays",
+      "status": "Done",
+      "url": "https://www.jiomart.com/images/product/original/1080466/denver-sporting-club-champ-deodorant-spray-for-men-200-ml-prod-1080466-0-202312271132.jpg?im=Resize=(600,600)",
+      "BeautySecimg": "https://www.jiomart.com/images/product/original/1080466/denver-sporting-club-champ-deodorant-spray-for-men-200-ml-prod-1080466-4-202312271132.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715257620867",
+      "Prod_name": "Beardo Black Musk Perfume 100 ml",
+      "price": "516.00",
+      "discount": "30% off",
+      "Discription": " Expiry Date\t30-09-2025 Hsn Code\t33030050 Country Of Origin\tIndia Marketed By\tZed Lifestyle Pvt Ltd Marketer Address\t711, Shapath V, S.G. Road, Prahlad Nagar, Ahmedabad, Gujarat – 380023",
+      "status": "Done",
+      "url": "https://www.jiomart.com/images/product/original/982014/beardo-black-musk-perfume-100-ml-prod-982014-0-202202220608.jpg?im=Resize=(600,600)",
+      "BeautySecimg": "https://www.jiomart.com/images/product/original/982014/beardo-black-musk-perfume-100-ml-prod-982014-3-202202220608.jpg?im=Resize=(600,600)"
+    },
+    {
+      "id": "1715257966749",
+      "Prod_name": "Plum BodyLovin' Feelin' So Rose Eau De Parfum 15 ml",
+      "price": "295.00",
+      "discount": "30% off",
+      "Discription": " Expiry Date\t31-03-2026 Hsn Code\t33049990 Country Of Origin\tIndia Marketed By\tPureplay Skin Sciences (I) Pvt. Ltd. Manufactured By\tPureplay Skin Sciences(I) Pvt Ltd Brand Name\tPlum BodyLovin' Feelin' So Rose Eau De Parfum",
+      "status": "Done",
+      "url": "https://www.jiomart.com/images/product/original/1049423/plum-bodylovin-feelin-so-rose-eau-de-parfum-15-ml-prod-1049423-0-202309121531.jpg?im=Resize=(600,600)",
+      "BeautySecimg": "https://www.jiomart.com/images/product/original/1049423/plum-bodylovin-feelin-so-rose-eau-de-parfum-15-ml-prod-1049423-2-202309121531.jpg?im=Resize=(600,600)"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1714191085453",
+      "Category": "MEN",
+      "url": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/collection-tile_23.jpg?format=webp&w=480&dpr=1.3"
+    },
+    {
+      "id": "1714191164401",
+      "Category": "WOMEN",
+      "url": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/women-small-tiles-light-layers_rB2exu9.jpg?format=webp&w=480&dpr=1.3"
+    },
+    {
+      "id": "1714191123083",
+      "Category": "KIDS",
+      "url": "https://prod-img.thesouledstore.com/public/theSoul/storage/mobile-cms-media-prod/product-images/collection-tile_pgJikIo.jpg?format=webp&w=480&dpr=1.3"
+    }
+  ],
+  "Products": [
+    {
+      "id": "1714631468665",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Jack & Jones Black Slim Fit T-Shirt",
+      "price": "399.00",
+      "discount": "40% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F78%2F93%2F7893f2bef0d4eea9272503ea4e9301a407d63187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe8%2F05%2Fe8058c66f7796160663263ec752857729a10a133.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+      "id": "1714631655465",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Regular Fit T-shirt",
+      "price": "499.00",
+      "discount": "50% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3b%2Fd5%2F3bd558fde66732a5ceca92757f6543cc5aacf187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "prdvalue": "True",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F00%2Ff4%2F00f4fa806a045d7f695bbc973a05c857b6bde620.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+      "id": "1714631771829",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Loose Fit Cargo Jeans",
+      "price": "299.00",
+      "discount": "25%off",
+      "size": "Lg",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F25%2Ff2%2F25f21f5b9211031c59f4f8a7f405a47e40efe1f2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ffb%2F81%2Ffb81e203a4b306801f01d5fe284c51bab9e39d60.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714631911405",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Regular Fit Twill shacket",
+      "price": "249.00",
+      "discount": "50% off",
+      "size": "XL",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd3%2Ff1%2Fd3f15dd218bedf05d9d56bb0c05d729961c16dc9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb4%2Fc7%2Fb4c7d2764c71d8d704a70700d7dfe1c74191a795.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714982462145",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Regular Fit Lace resort shirt",
+      "price": "299.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F0e%2Fd4%2F0ed48271cd219e8c8c2c3d3d3193c854e35a8b7e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F0c%2F40%2F0c40311e9450fdd3db017922bf3bbb3e1ab32642.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1714982536489",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Regular Fit Short-sleeved jersey shirt",
+      "price": "249.00",
+      "discount": "20%off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8b%2Fc0%2F8bc081e4565b9c6144a413fd555c2fefb26aabfb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F8c%2F42%2F8c42a32e4de4e1a02fe3897f6348eca4c98251a8.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1714733999397",
+      "Cate_id": "1714191123083",
+      "Prod_name": "Cotton chino shorts",
+      "price": "499.00",
+      "discount": "30% off",
+      "size": "Sm",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7d%2F64%2F7d64fb853e94d19fbc99c110940b563c09602d1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7f%2F72%2F7f7244f6958be4b0a348ceb3a3ce8ee02d3ecfc9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714738461226",
+      "Cate_id": "1714191123083",
+      "Prod_name": "Suit trousers",
+      "price": "799.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff9%2F6c%2Ff96c6c488205c02892ece9c160d61f82103ce6be.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_boys_clothing_trousersjeans_trousers%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcd%2F33%2Fcd3393d27e2d6523ac8229ca0f84de4397cd71d7.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_boys_clothing_trousersjeans_trousers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714738570724",
+      "Cate_id": "1714191123083",
+      "Prod_name": "2-piece printed set",
+      "price": "599.00",
+      "discount": "40% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F89%2F3a%2F893ad0f532b2a77732c94943dd04fc27a336566c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_boys_clothing_tshirtsshirts_tshirts%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F81%2Ff2%2F81f2dcccf666069774093bec14aea5f321bed46a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_boys_clothing_tshirtsshirts_tshirts%5D%2Ctype%5BDESCRIPTIVEDETAIL%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714738693399",
+      "Cate_id": "1714191123083",
+      "Prod_name": "2-pack joggers",
+      "price": "399.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2a%2F3a%2F2a3a41f144054c29182ae6f585425f1834cff8ef.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd1%2Fa3%2Fd1a37d5d9edd49fd1558f8027851023e54868c00.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714837325492",
+      "Cate_id": "1714191164401",
+      "Prod_name": "Purple Floral Print Embroidered Anarkali Kurta",
+      "price": "590.00",
+      "discount": "30% off",
+      "size": "Lg",
+      "status": "Done",
+      "url": "https://www.glamly.com/cdn/shop/products/8_c09e097a-f2a0-426d-88cf-b9e3f75cbd33_900x.jpg?v=1675831945",
+      "secndIMG": "https://www.glamly.com/cdn/shop/products/2_844a103f-d7bb-4073-b3de-01f08b2fd531_900x.jpg?v=1675831945",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1714389977708",
+      "Cate_id": "1714191164401",
+      "Prod_name": "Camla Barcelona Black Dress For Women",
+      "price": "800.00",
+      "discount": "20%off",
+      "size": "Md",
+      "status": "True",
+      "url": "https://www.glamly.com/cdn/shop/files/8_e5ea195b-aa32-4516-a4bf-632ef4dafcd6_1120x.jpg?v=1693893796",
+      "secndIMG": "https://www.glamly.com/cdn/shop/files/2_2c44dd4e-be70-4c20-961a-f505dff64d02_1120x.jpg?v=1693893806",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1714837394259",
+      "Cate_id": "1714191164401",
+      "Prod_name": "Madame Belted Waist Baby Pink Trouser",
+      "price": "485.00",
+      "discount": "40% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://www.glamly.com/cdn/shop/products/2_baf23566-d0f9-4ba7-84a0-6dfadd792a16_900x.jpg?v=1668664605",
+      "secndIMG": "https://www.glamly.com/cdn/shop/products/2_baf23566-d0f9-4ba7-84a0-6dfadd792a16_900x.jpg?v=1668664605",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1714837494861",
+      "Cate_id": "1714191164401",
+      "Prod_name": "Maroon And Beige Chevron Print Lehenga",
+      "price": "760.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://img.faballey.com/images/Product/ILK02600Z/4.jpg",
+      "secndIMG": "https://img.faballey.com/images/Product/ILK02600Z/6.jpg",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714837577999",
+      "Cate_id": "1714191164401",
+      "Prod_name": "Blue Printed Lehenga Set With Bead Embellished Silk Blouse And Dupatta",
+      "price": "463.00",
+      "discount": "55% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://img.faballey.com/images/Product/ILL01656Z/3.jpg",
+      "secndIMG": "https://img.faballey.com/images/Product/ILL01656Z/5.jpg",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714837755593",
+      "Cate_id": "1714191164401",
+      "Prod_name": "Emerald Green Ruffled Pre-Stitched Saree Set With Sequin ",
+      "price": "399.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://img.faballey.com/images/Product/ILS01631Z/3.jpg",
+      "secndIMG": "https://img.faballey.com/images/Product/ILS01631Z/4.jpg",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714982850687",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Loose Fit Hoodie",
+      "price": "499.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F38%2Fbf%2F38bf61554e9b5de6a04d4572fb71ba975e075cdf.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F98%2Fcf%2F98cfddd498089792717c472d28321e18c2a98b39.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714982992835",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Regular Fit Hoodie",
+      "price": "399.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5a%2F3f%2F5a3f9f4cfa7f6b9b20490f68afeda12c7ea12c64.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F71%2F86%2F71868e0d999ec5d67b5192ff4fb7f92801dfb5d3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1715171714729",
+      "Prod_name": "Regular Fit Cargo ",
+      "price": "399.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff4%2F26%2Ff4269cc434978e26346dd90a1c7337c988447894.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fee%2F50%2Fee50ecf176f8571c154dfae4a3642e11e3f83a73.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191085453",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1715191066919",
+      "Prod_name": "Madame Shanaya Kapoor V-Neck Black Bodycon Dress",
+      "price": "399.00",
+      "discount": "20%off",
+      "size": "Lg",
+      "status": "Done",
+      "url": "https://www.glamly.com/cdn/shop/files/5_ee254878-c469-4dbc-9dd7-06583ddb4a7c_900x.jpg?v=1713334502",
+      "secndIMG": "https://www.glamly.com/cdn/shop/files/1_c76a49c2-befe-4a08-8f08-47b1dca9a9e0_900x.jpg?v=1713334502",
+      "Cate_id": "1714191164401",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1715189380376",
+      "Prod_name": "Twill chinos",
+      "price": "599.00",
+      "discount": "20%off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd7%2F21%2Fd721fb5c8581c82611b7ed8e5923c28759f69f88.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd7%2F21%2Fd721fb5c8581c82611b7ed8e5923c28759f69f88.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "Cate_id": "1714191123083",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1714390102176",
+      "Cate_id": "1714191123083",
+      "Prod_name": "Oversized printed T-shirt",
+      "price": "799.00",
+      "discount": "50% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F6b%2F1b%2F6b1b8fa44013a4a54da44d4d1654e93571277bb2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F13%2Fb4%2F13b44e41b702af57b810090d3a553a1cf024d1e6.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1714734222449",
+      "Cate_id": "1714191123083",
+      "Prod_name": "Twill chinos",
+      "price": "699.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F70%2F71%2F7071a4c6803b9ce73a11bc5769aa39936f418d9c.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F28%2F32%2F28323679fada9342b36c655f71395f3c1a8ccf30.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1714734329669",
+      "Cate_id": "1714191123083",
+      "Prod_name": "Chest-pocket T-shirt",
+      "price": "899.00",
+      "discount": "50% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fe5%2F62%2Fe5624381b9bdd7ee35cec6a950c907182ed17eeb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F5b%2Fc5%2F5bc5248cf89aeaf2a5c58d0d39e7f1c639991762.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B3%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1714734139644",
+      "Cate_id": "1714191123083",
+      "Prod_name": "Tulle-skirt dress with puff sleeves",
+      "price": "249.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F93%2Fec%2F93ec2f63c87296221c74184d5c527a6bbb0c3b1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd0%2Fc4%2Fd0c4546122ff3bef1bac0867c402895cabd54d00.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True"
+    },
+    {
+      "id": "1715191208403",
+      "Prod_name": "Camla Barcelona Surplice Neck Purple Drawstring Top",
+      "price": "249.00",
+      "discount": "20%off",
+      "size": "Lg",
+      "status": "Done",
+      "url": "https://www.glamly.com/cdn/shop/files/5_ec1a1f06-5da6-4166-b6f4-8300b1d0c1e2_900x.jpg?v=1712205628",
+      "secndIMG": "https://www.glamly.com/cdn/shop/files/1_83714e95-b77a-4587-a0dd-99ef5e69907a_900x.jpg?v=1712205628",
+      "Cate_id": "1714191164401",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718090550789",
+      "Prod_name": "Loose Fit Cargo Jeans",
+      "price": "699.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F19%2F58%2F1958e48b23f71d362c81d6eb781f93dcf57ac742.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff4%2F5a%2Ff45a4219050a3efad15df0d2cbdb2a5f7161cd33.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191085453",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718090762462",
+      "Prod_name": "Loose Jeans",
+      "price": "959.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=source[/a9/90/a9907df22e4d98b779fb5da49a7cd8b6a61e3d9e.jpg],origin[dam],category[men_jeans_loose],type[DESCRIPTIVESTILLLIFE],res[y],hmver[2]&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Ff1%2Fbb%2Ff1bb38d9da71f29bf2b40b1188669a4a9ee6c8ff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191085453",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718091173577",
+      "Prod_name": "Baggy Jeans",
+      "price": "699.00",
+      "discount": "30% off",
+      "size": "Lg",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F4a%2F8f%2F4a8fa97579a7827b8fdc34d37448339aca36a204.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb7%2Ff6%2Fb7f66550a3af12eb8593cd779af9de8281f6f437.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "Cate_id": "1714191085453",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718284797090",
+      "Prod_name": "V-neck jumper",
+      "price": "799.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa4%2Fed%2Fa4ed6c7180296e2570bad7c0299f701beac6c7b0.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F39%2F83%2F3983825db40541dab7758598bdfcd3bd67356dec.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191164401",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718284965430",
+      "Prod_name": "Open-backed poplin shirt",
+      "price": "959",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3f%2F5a%2F3f5a46b25676b364e0fd1ca82d5c1348c1a7fb55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fcd%2Fe1%2Fcde18d29bce989d6b75a7b905a32ce26e5154f03.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191164401",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718285244261",
+      "Prod_name": "Poplin-skirt ribbed jersey dress",
+      "price": "899",
+      "discount": "30% off",
+      "size": "Lg",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F80%2F30%2F803088abe2886b098ef893da0813fc0c67eefa55.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F69%2F86%2F6986951af460f8bfeb0361f5c3c53776e990953d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191164401",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718285358738",
+      "Prod_name": "Lace-trimmed strappy top",
+      "price": "799.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1f%2F4a%2F1f4ab5025b6db5799bd2e25cab434e7df0a45296.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F09%2Fd3%2F09d30e1befd6c50cd274a26c680f89b875d14f41.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191164401",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718359287601",
+      "Prod_name": "Wide cargo trousers",
+      "price": "899.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fb4%2F1e%2Fb41e6c61f3de90f4448b02c09abdeb3ca19b46a2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_oldergirls_clothing_trousersjeans_trousers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F14%2Fea%2F14eabce74147729b1a471dba161bbc2bcb0ed617.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191123083",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718359381785",
+      "Prod_name": "piece set",
+      "price": "599.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3a%2F65%2F3a65d09210997fa55269a9568a4fe5ce789db035.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fa7%2Fc9%2Fa7c93ae425402c6698450f8d07285696d9744e7d.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_girls_clothing_topstshirts_tanktops%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "Cate_id": "1714191123083",
+      "prdvalue": "False"
+    },
+    {
+      "id": "1718359473458",
+      "Prod_name": "Crinkled pull-on trousers",
+      "price": "899.00",
+      "discount": "30% off",
+      "size": "Md",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F9f%2F89%2F9f8963a0e26480478cea4ed2a77c522898d2c282.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_oldergirls_clothing_trousersjeans_trousers%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2Fcf%2Fc6cf0348e525594f0959e5dd5a9e9be5cb36d151.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "Cate_id": "1714191123083",
+      "prdvalue": "False"
+    }
+  ],
+  "order list": [
+    {
+      "id": "1",
+      "username": "Jack",
+      "email": "Jack@gmail.com",
+      "date of birth": "29/12/2003",
+      "Category": "MEN",
+      "price": "33$",
+      "size": "XL",
+      "pincode": "300708",
+      "status": "success",
+      "url": "https://i.pinimg.com/236x/06/83/87/068387ac1c3c2d4b1eb5a5fc872d6101.jpg"
+    },
+    {
+      "id": "2",
+      "username": "Jack",
+      "email": "Jack@gmail.com",
+      "date of birth": "29/12/2003",
+      "Category": "MEN",
+      "price": "33$",
+      "size": "XL",
+      "pincode": "300708",
+      "status": "success",
+      "url": "https://i.pinimg.com/236x/19/2a/7f/192a7f8df513b6f54698112cbb585d77.jpg"
+    },
+    {
+      "id": "3",
+      "username": "Jack",
+      "email": "Jack@gmail.com",
+      "date of birth": "29/12/2003",
+      "Category": "MEN",
+      "price": "33$",
+      "size": "XL",
+      "pincode": "300708",
+      "status": "success",
+      "url": "https://i.pinimg.com/474x/ef/6b/84/ef6b8452aacd786aa4dd933085b3c0ff.jpg"
+    },
+    {
+      "id": "4",
+      "username": "Jack",
+      "email": "Jack@gmail.com",
+      "date of birth": "29/12/2003",
+      "Category": "MEN",
+      "price": "33$",
+      "size": "XL",
+      "pincode": "300708",
+      "status": "success",
+      "url": "https://i.pinimg.com/564x/a9/5e/15/a95e15d705b2d5f920d68f4c85cdca40.jpg"
+    }
+  ],
+  "Customer": [
+    {
+      "id": "1715155095936",
+      "username": "anyltics_star8211",
+      "email": "premprakash07@gmail.com",
+      "url": "",
+      "mobile": "09680294478",
+      "joindate": "2024-05-23",
+      "Role": "Hr Manager",
+      "status": "Active",
+      "Action": ""
+    }
+  ],
+  "employee": [
+    {
+      "id": "1714557682467",
+      "firstname": "Prem mali",
+      "joiningdate": "2024-05-09",
+      "Department": "E commerce",
+      "Position": "CA",
+      "Phone": "09680294478",
+      "email": "prem@gmail.com",
+      "url": "Admin/images/sm/avatar1.jpg"
+    },
+    {
+      "id": "1714557795679",
+      "firstname": "Cquennuu",
+      "joiningdate": "2024-05-09",
+      "Department": "E commerce",
+      "Position": "manager",
+      "Phone": "09680294478",
+      "email": "Sneha@gmail.com",
+      "url": "Admin/images/sm/avatar2.jpg"
+    },
+    {
+      "id": "1714564235596",
+      "firstname": "prem mali",
+      "joiningdate": "2024-05-13",
+      "Department": "E commerce",
+      "Position": "Mnager",
+      "Phone": "09680294478",
+      "email": "prem01@gmail.com",
+      "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAOAA4AMBIgACEQEDEQH/xAAcAAACAwEBAQEAAAAAAAAAAAAEBQIDBgcBAAj/xABNEAACAQIEBAIECgcECAUFAAABAgMEEQAFEiEGEyIxFDIjQUJhFRYkM1FSYnFygQc0gpGhscGS0eHwJSZDU2NzorIXJ2TC4jZEo7Px/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/8QAIREBAQACAgIDAQEBAAAAAAAAAAECEQMhEjEiMlETQUL/2gAMAwEAAhEDEQA/AM9KOvD3JD0asIZvPh5kOEH2Zhec2KGPyz9rBGZD0zaPrYGkPpl/L+WGk0zVddGv4cZsDGmrl10C/hGM0B14hcHUvnx9m3zy48ptWtcSzfzrioVMslPoWwHnIwVk3kbXinP4WioJcxlXTTL/ALRuzH6FHc9j2xGU7Vj6UZQ3Q34cZuRNFfXL/wAct++x/rhRRZhJned0lHUVclDSSOF9E1jextc/STYX7C/bHRqvIaOVFVOYrR9HM1XLAXHUTuT78Rn8fa8ZcvTFz4b5bD8gi83r/mcNBw3Q+3LO37QH9MWnKKaJFWKWpVf+YD/7cc9y2ucdZrN/hFKlVyylaaJYw0zaS+m5NuxH0HA+YSyp6Kn5nifrKzxhSNyLn1gb/njWCgVEbRPUrqtq9J5rdvV7zgOThyjqH1O0mr8vu9Yxczmp0f8APIhyvPc8iSBpWgmgZtGqo2K72JuLbfffGuyzNoMzo+fp5a6mTV3FxsT92M9T0uUVvyGkqZfExsPRSSKAyncFRp3BBB2+n"
+    }
+  ],
+  "Addtocart": [
+    {
+      "id": "1714631468665",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Jack & Jones Black Slim Fit T-Shirt",
+      "price": "399.00",
+      "discount": "40% off",
+      "size": "M",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F78%2F93%2F7893f2bef0d4eea9272503ea4e9301a407d63187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe8%2F05%2Fe8058c66f7796160663263ec752857729a10a133.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "user_id": "1713874731032",
+      "color": "White",
+      "count": 4,
+      "Price": "1596.00"
+    },
+    {
+      "id": "1714738693399",
+      "Cate_id": "1714191123083",
+      "Prod_name": "2-pack joggers",
+      "price": "399.00",
+      "discount": "30% off",
+      "size": "S",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F2a%2F3a%2F2a3a41f144054c29182ae6f585425f1834cff8ef.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fd1%2Fa3%2Fd1a37d5d9edd49fd1558f8027851023e54868c00.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False",
+      "user_id": "1720866312493",
+      "color": "Black",
+      "count": 4,
+      "Price": "1596.00"
+    },
+    {
+      "id": "1714631468665",
+      "Cate_id": "1714191085453",
+      "Prod_name": "Jack & Jones Black Slim Fit T-Shirt",
+      "price": "399.00",
+      "discount": "40% off",
+      "size": "M",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F78%2F93%2F7893f2bef0d4eea9272503ea4e9301a407d63187.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "True",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2Fe8%2F05%2Fe8058c66f7796160663263ec752857729a10a133.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "user_id": "1713874731032",
+      "color": "White",
+      "count": 1
+    },
+    {
+      "id": "1714733999397",
+      "Cate_id": "1714191123083",
+      "Prod_name": "Cotton chino shorts",
+      "price": "499.00",
+      "discount": "30% off",
+      "size": "M",
+      "status": "Done",
+      "url": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F7d%2F64%2F7d64fb853e94d19fbc99c110940b563c09602d1f.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "secndIMG": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F7f%2F72%2F7f7244f6958be4b0a348ceb3a3ce8ee02d3ecfc9.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "prdvalue": "False",
+      "user_id": "1714012765615",
+      "color": "Black",
+      "count": 1,
+      "Price": "499.00"
+    }
+  ],
+  "userDetails": [
+    {
+      "id": "1720430081926",
+      "country": "1",
+      "firstname": "prem",
+      "lastname": "mali",
+      "Address": "455 S. Airport St. Moncks Corner",
+      "state": "Rajasthan",
+      "pincode": "306708",
+      "email": "premprakashm10@gmail.com",
+      "phone": "09680294478"
+    }
+  ]
+}
